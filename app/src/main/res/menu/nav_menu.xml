@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Pengaturan">
+        <menu>
+            <item
+                android:id="@+id/daynightmode"
+                android:title="Mode Gelap / Siang" />
+        </menu>
+    </item>
+    <item android:title="Feedback">
+        <menu>
+            <item
+                android:id="@+id/send_feedback"
+                android:title="Kirim Masukan" />
+        </menu>
+    </item>
+</menu>
